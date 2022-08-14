@@ -1,0 +1,16 @@
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.exe
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.deps.json
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.runtimeconfig.json
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.runtimeconfig.dev.json
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.dll
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.pdb
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.csproj.AssemblyReference.cache
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.AssemblyInfoInputs.cache
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.AssemblyInfo.cs
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.csproj.CoreCompileInputs.cache
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.dll
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\refint\TaschenrechnerApp.dll
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.pdb
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.genruntimeconfig.cache
+C:\Users\mpalk\OneDrive\Desktop\BBRZ Workspace\AP12\TD\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\net5.0\ref\TaschenrechnerApp.dll
